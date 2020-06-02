@@ -10,8 +10,10 @@
   name: 康樂活動
 - link: /通訊/
   name: 通訊
-#- link: /通告/
-#  name: 通告
+- link: /招標/
+  name: 招標
+- link: /資料/
+  name: 資料
 - link: /聯絡/
   name: 聯絡
 

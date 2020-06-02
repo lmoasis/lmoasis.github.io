@@ -16,7 +16,7 @@ texture:
   title:  龍門居
   tagline: 業主立案法團
   date_format: "%b %-d, %Y"
-  style: black
+  style: pink
   showNav: true
   showPicker: false
 

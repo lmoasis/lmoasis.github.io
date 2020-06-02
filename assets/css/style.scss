@@ -49,6 +49,7 @@
     #black { background-color: #111; }
     #purple { background-color: rebeccapurple; }
     #green { background-color: mediumseagreen; }
+    #pink { background-color: pink; }
 }
 {%- endif -%}
 // Textures
@@ -78,6 +79,22 @@
 
 .texture-red {
     background-image: url('{{ site.baseurl }}/assets/textures/red.jpg');
+}
+
+.texture-pink {
+    background-image: url('{{ site.baseurl }}/assets/textures/pink.jpg');
+
+    h2 {
+        color: black;
+    }
+
+    .social i:hover {
+        color: black;
+    }
+
+    .post-date {
+        color: black;
+    }
 }
 
 .texture-purple {

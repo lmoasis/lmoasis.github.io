@@ -466,6 +466,14 @@ header .social li i:hover { color: #999; }
 
 .texture-red { background-image: url("/assets/textures/red.jpg"); }
 
+.texture-pink { background-image: url("/assets/textures/pink.jpg"); }
+
+.texture-pink h2 { color: black; }
+
+.texture-pink .social i:hover { color: black; }
+
+.texture-pink .post-date { color: black; }
+
 .texture-purple { background-image: url("/assets/textures/purple.jpg"); }
 
 .texture-green { background-image: url("/assets/textures/green.jpg"); }
