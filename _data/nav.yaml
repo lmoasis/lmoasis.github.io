@@ -1,0 +1,17 @@
+- link: /
+  name: 主頁
+- link: /業主大會/
+  name: 業主大會
+- link: /會議記錄/
+  name: 會議記錄
+- link: /法團資訊/
+  name: 法團資訊
+- link: /康樂活動/
+  name: 康樂活動
+- link: /通訊/
+  name: 通訊
+- link: /通告/
+  name: 通告
+- link: /聯絡/
+  name: 聯絡
+
